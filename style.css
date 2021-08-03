@@ -1,0 +1,15 @@
+h1 {
+    color: yellow;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    width: 500px;
+    heght: 600px;
+    background-color: yellow;
+    padding: 50px;
+    border: solid 3px blue;
+}
